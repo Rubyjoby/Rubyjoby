@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Rubyjoby
-- 💻 I'm a self taught web developer
-
-pls visit my pfp :3
+# Introduction
+Hi my name is **Ohen Tg** 😀
+<br>
+> I'm a student starting github and a front-end web developer
+<br>
+I have been working front end using these languages
