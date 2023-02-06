@@ -5,3 +5,5 @@ Hi my name is **Ohen Tg**
 > I'm a student starting github and a front-end web developer
 
 Although,  I have been working `front-end` for 8 months and `back-end` for 4 months
+<br>
+you can learn more about me here at my website: [Informy](https://rubyjoby.github.io/About_Me_Page/)
