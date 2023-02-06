@@ -3,5 +3,5 @@ Hi my name is **Ohen Tg**
 <img height="100" width="100" src="images/elmoFire.gif" alt="new" />
 <br>
 > I'm a student starting github and a front-end web developer
-<br>
-I have been working front end using these languages
+
+Although,  I have been working <mark style="background-color: lightsteelblue; padding: 5px;">front-end</mark> for 8 months and back-end for 4 months
