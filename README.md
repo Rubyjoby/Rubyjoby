@@ -4,8 +4,7 @@ Hello my name is **Ohen Tg**
 <br>
 > I'm a student starting github and a front-end web developer
 
-Although,  I have been working `front-end`💻 for 8 months and `back-end` for 4 months 📅
-<br>
+Although,  I have been working `front-end`💻 for 8 months and `back-end` for 4 months 📅.
 I still have some time do school stuff
 <br>
 
