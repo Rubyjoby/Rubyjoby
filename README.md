@@ -11,7 +11,7 @@ I still have some time do school stuff
 ---
 
 ## Languages learned
-yes
+Html css javascript
 
 
 # summary 
