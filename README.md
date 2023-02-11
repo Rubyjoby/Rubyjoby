@@ -16,8 +16,4 @@ yes
 
 # summary 
 you can learn more about me here at my website:
-<div style="background-color: lightsteelblue; padding: 2px;">
-    <a href="https://rubyjoby.github.io/About_Me_Page/">
-        <cour style="font-family: Courier New;">Informy</cour>
-    </a>
-</div>
+[Informy](https://rubyjoby.github.io/About_Me_Page/)
