@@ -10,5 +10,9 @@ I still have some time do school stuff
 
 ---
 
-## summary 
+## Languages learned
+yes
+
+
+# summary 
 you can learn more about me here at my website: [Informy](https://rubyjoby.github.io/About_Me_Page/)
