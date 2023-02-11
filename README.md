@@ -15,4 +15,5 @@ yes
 
 
 # summary 
-you can learn more about me here at my website: [Informy](https://rubyjoby.github.io/About_Me_Page/)
+you can learn more about me here at my website:
+[Informy](https://rubyjoby.github.io/About_Me_Page/)
