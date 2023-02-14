@@ -4,6 +4,12 @@ Hello my name is **Ohen Tg**
 <br>
 > I'm a student starting github and a front-end web developer
 
+<style>
+    p {
+        color: red;
+    }
+</style>
+
 Although,  I have been working `front-end`💻 for 8 months and `back-end` for 4 months 📅.
 I still have some time do school stuff
 <br>
@@ -11,7 +17,7 @@ I still have some time do school stuff
 ---
 
 ## Languages learned
-<p style="color: red;">Html</p> css javascript
+<p>Html</p> css javascript
 
 
 # summary 
