@@ -11,7 +11,7 @@ I still have some time do school stuff
 ---
 
 ## Languages learned
-Html css javascript
+<p style="color: red;">Html</p> css javascript
 
 
 # summary 
