@@ -1,4 +1,4 @@
-# About me <p style="font-size: 7px;">(🤔🤔🤔🤔)</p>
+# About me (## tho this is small)
 Hello my name is **Ohen Tg**
 <img height="100" width="100" src="images/elmoFire.gif" alt="new" />
 <br>
