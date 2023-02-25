@@ -14,6 +14,6 @@ I still have some time do school stuff
 you can learn more about me here at my website:
 [Informy](https://rubyjoby.github.io/About_Me_Page/)
 
-## Extras
-Scrapped emojies:
+# Extras
+<h1>Scrapped emojies</h1>:
 >   Emojies that I didn't use yet/n in my repos
