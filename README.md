@@ -15,5 +15,5 @@ you can learn more about me here at my website:
 [Informy](https://rubyjoby.github.io/About_Me_Page/)
 
 # Extras
-<p style="text-align: center;">Scrapped emojies</p>:
+<p style="text-align: center;">Scrapped emojies</p>
 >   Emojies that I didn't use yet/n in my repos
