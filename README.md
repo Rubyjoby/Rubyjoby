@@ -10,10 +10,9 @@ I still have some time do school stuff
 
 ---
 
-## Languages learned
-Html css javascript
-
-
 # summary 
 you can learn more about me here at my website:
 [Informy](https://rubyjoby.github.io/About_Me_Page/)
+
+## Extras
+>   Emojies that I didn't use yet/n in my repos
