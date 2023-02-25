@@ -16,4 +16,5 @@ you can learn more about me here at my website:
 
 # Extras
 <p style="text-align: center;">Scrapped emojies</p>
+
 >   Emojies that I didn't use yet/n in my repos
