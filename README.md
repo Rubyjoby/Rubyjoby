@@ -1,4 +1,4 @@
-# About me (## tho this is small)
+# About me
 Hello my name is **Ohen Tg**
 <img height="100" width="100" src="images/elmoFire.gif" alt="new" />
 <br>
